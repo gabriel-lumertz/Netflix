@@ -99,7 +99,10 @@ header nav a:hover {
 }
 
 .box-filme {
-    height: 385px;
-    width: 260px;
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+    /* max-width: 385px; */
+    /* max-width: 260px; */
     display: block;
 }
